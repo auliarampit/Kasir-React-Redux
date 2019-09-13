@@ -1,0 +1,17 @@
+.imgFood {
+    width: 150px;
+    height: 150px;
+}
+.containerCart {
+    text-align: center;
+    margin-top: 150px
+}
+.text1 {
+    font-weight: bold;
+    margin-top: -40px
+}
+.text2 {
+    color: #CECECE;
+    margin-top: -35
+    
+}
